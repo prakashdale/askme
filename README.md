@@ -4,6 +4,10 @@ Ask Me BOT
 ## Get started
 Procedure to prepare the development machine.
 
+## Webchat frontend
+https://github.com/botfront/rasa-webchat
+https://botfront.io/docs/getting-started/setup
+
 ### Anaconda environment
 pip install requests==2.23.0
 pip install boto3==1.13.24
