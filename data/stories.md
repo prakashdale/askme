@@ -1,7 +1,3 @@
-## get started
-* get_started
-  - utter_get_started
-
 ## happy path
 * greet
   - utter_greet
