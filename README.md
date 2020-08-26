@@ -1,8 +1,9 @@
-# askme
-Ask Me BOT
+# Ask Me BOT
+
 
 ## Get started
 Run following commands
+
 `cd e:\git\prakashdale\askme`
 
 `conda activate rasasrc`
@@ -10,8 +11,9 @@ Run following commands
 `rasa run --enable-api --cors "*"`
 
 ## Webchat frontend
-https://github.com/botfront/rasa-webchat
-https://botfront.io/docs/getting-started/setup
+
+- https://github.com/botfront/rasa-webchat
+- https://botfront.io/docs/getting-started/setup
 
 Following script added to _layouts\page.html of prakashdale.github.io
 
