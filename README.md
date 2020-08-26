@@ -33,3 +33,13 @@ Following script added to _layouts\page.html of prakashdale.github.io
 </script>
 ```
 
+## Docker
+
+**Build Image**
+
+`docker build -t prakashdale/askme .`\
+
+**Test Image**
+
+`docker run -p 5005:5005`
+

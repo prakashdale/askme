@@ -38,8 +38,14 @@
 - what is possible?
 - how can you help me?
 
-## intent: define_microservice
-- what is [microservice](technology)?
-- define [microservice](technology)
-- can you tell me about [microservices architecture](technology)
+## intent: define_technology
+- what is [microservice](technology:microservice)?
+- define [microservice](technology:microservice)
+- can you tell me about [microservices architecture](technology:microservice)
+- what is [docker](technology:docker)?
+- let's discuss about [docker](technology:docker)
+- can you tell more about [rasa-slot](technology:rasa-slot)
+- define [rasa-slot](technology:rasa-slot)
+- define [rasa](technology:rasa)
+
 

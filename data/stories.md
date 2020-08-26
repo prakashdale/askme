@@ -14,6 +14,6 @@
 * whatspossible
   - utter_whatspossible
 
-# define microservice
-* define_microservice
-  - utter_define_microservice
+# define technology
+* define_technology
+  - action_define_technology

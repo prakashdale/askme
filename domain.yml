@@ -5,10 +5,14 @@ intents:
   - deny
   - bot_challenge
   - whatspossible
-  - define_microservice
+  - define_technology
 
 entities:
   - technology
+
+slots:
+  technology:
+    type: text
 
 responses:
   utter_greet:
@@ -23,11 +27,8 @@ responses:
   utter_iamabot:
   - text: "I am a bot. I am still learning. Please send your question to prakashdale@gmail.com"
 
-  utter_define_microservice:
-  - text: "Microservices - also known as the microservice architecture - 
-          is an architectural style that structures an application as a collection 
-          of services that are. Highly maintainable and testable. Loosely coupled. 
-          Independently deployable. Organized around business capabilities."
+actions:
+  - action_define_technology
 
 session_config:
   session_expiration_time: 60
